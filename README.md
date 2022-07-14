@@ -1,3 +1,7 @@
+## Using docker file on docker playground from 
+
+[Teracy's docker file for create-react-app](https://github.com/teracyhq/docker-files/tree/master/create-react-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
